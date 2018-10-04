@@ -111,7 +111,7 @@ button {
 .show {
   color: #000;
   background-color: #76CE82;
-	animation: bounce 1s;
+	animation: bounce .5s;
 }
 
 /* Keyboard */
